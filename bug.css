@@ -1,0 +1,1 @@
+The CSS code has an unusual specificity issue.  I'm using a very specific selector, but a more general selector is overriding it. I've checked the order in the stylesheet and the general selector appears later.
