@@ -1,0 +1,1 @@
+This repository demonstrates a rather unusual CSS specificity problem. A highly specific selector is unexpectedly overridden by a more general selector. The solution involves understanding and adjusting CSS specificity rules to resolve the conflict. The bug.css file contains the problematic code, while bugSolution.css provides a corrected version.
