@@ -1,0 +1,1 @@
+I've solved the specificity issue by using the !important flag on the specific CSS rule that should override the more general rules. While not ideal, this works in this particular instance. It is usually best to review your CSS cascade if you find yourself using !important frequently.
